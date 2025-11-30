@@ -1,0 +1,13 @@
+{
+    "name": "Eagle Airways",
+    "color": "#103858",
+    "bgcolor": "#5f91b8",
+    "aircrafts": {
+"1": {
+            "name": "Airbus A350-900",
+            "liveries": [Eagle Airways G-EALR
+            ],
+            "labels": [file:///C:/Users/david/OneDrive/Dokumenty/GEOFS%20liveries%20(Eagle%20Airways)/Eagle%20AirW%20livery%20A359%20G-EALR.JPEG
+                "Texture"
+            ]
+        },
