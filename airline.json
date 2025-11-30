@@ -1,7 +1,8 @@
 {
-    "name": "Eagle Airways", // Name of your airline
-    "color": "blue",             // The color of the name in LiverySelector
-    "bgcolor": "white",      // The background color of the name in LiverySelector
-    "aircrafts": "A350-900 
+    "name": "Eagle Airways", 
+    "color": "blue",             
+    "bgcolor": "white",      
+    "aircrafts": "A350-900" 
 {
 ...
+
