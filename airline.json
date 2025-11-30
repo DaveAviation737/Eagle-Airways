@@ -1,7 +1,7 @@
 {
-  "name": "Eagle Airways G-EALR",
-  "texture": "Eagle AirW livery A359 G-EALR",
-  "author": "DaveAviation737"
-}
-
-
+    "name": "Eagle Airways", // Name of your airline
+    "color": "blue",             // The color of the name in LiverySelector
+    "bgcolor": "white",      // The background color of the name in LiverySelector
+    "aircrafts": "A350-900 
+{
+...
